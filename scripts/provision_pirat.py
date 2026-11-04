@@ -4,6 +4,8 @@
 Requires PIRAT_TOKEN env var.
 Endpoint: https://pira.hu/api/graphql
 """
+import utils.transport
+import utils.session
 import json
 import os
 import urllib.request

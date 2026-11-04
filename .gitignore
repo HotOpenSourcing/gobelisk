@@ -2,7 +2,6 @@
 callee_*_messages.log
 caller_*_messages.log
 uas_*_messages.log
-.vscode/
 
 # Build artifacts
 gobelisk
@@ -37,3 +36,5 @@ data/
 # Local tooling and runtime exports
 bin/
 .golangci.bck.yml
+config.bat
+node_modules
